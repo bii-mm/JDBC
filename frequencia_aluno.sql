@@ -1,0 +1,1 @@
+SELECT * FROM registro_frequencia.aluno;
